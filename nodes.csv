@@ -1,0 +1,6 @@
+id,label,x,y
+entrance,Main Entrance,0,0
+lobby,Lobby,5,0
+hall_1,Main Hallway G1,10,0
+hall_2,Main Hallway G2,20,0
+room_201,Room 201,25,0
